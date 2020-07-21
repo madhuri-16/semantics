@@ -1,0 +1,20 @@
+logs
+vendor
+cache
+.idea
+*.pyc
+__pycache__
+db_data/
+.php_cs.cache
+.DS_Store
+.cache
+nginx_logs
+frontend_logs
+Chart.min.js
+JavaScript frontend/twitteranalyser/components/
+collapse.js
+util.js
+moment.js
+frontend/twitteranalyser/web/css/*
+!frontend/twitteranalyser/web/css/.gitkeep 
+api/twitteranalyser/twitteranalyser/.env
